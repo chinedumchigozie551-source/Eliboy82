@@ -1,0 +1,13 @@
+{
+  "name": "eliboy82",
+  "version": "1.0.0",
+  "description": "Production Launch Engine",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Build script not configured'",
+    "test": "echo 'Test script not configured'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
